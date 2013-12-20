@@ -114,7 +114,6 @@ input{
   	box-shadow:none;
   	padding:5px 10px;
   	margin:20px;
-  	width:100%;
 }
 footer{
 	background:#fff;
@@ -574,6 +573,11 @@ footer p{
 		width:14%;
 		margin: 40px 5px;
 		padding:10px 32px;
+	}
+
+	.create input{
+		width:100%;
+		margin:10px;
 	}
 
 }
