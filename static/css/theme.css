@@ -18,6 +18,7 @@ h1,h2,h3,h4,h5,h6{
 .blue{color:#13a2d4;}
 .bg-gray{background:#f4f4f4;}
 
+.center{text-align:center;}
 a{
 	text-shadow:none;
 	color:#13a2d4;
@@ -575,11 +576,10 @@ footer p{
 		padding:10px;
 	}
 
-	.wallet .col-sm-12{
+	.wallet .col-sm-12 p{
 		padding:50px;
 	}
 
-	.wallet .col-sm-12 p{text-align:center;}
 
 	.create input{
 		width:100%;
