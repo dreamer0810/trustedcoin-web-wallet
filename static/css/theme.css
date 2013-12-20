@@ -544,10 +544,10 @@ footer p{
 			transition: all 0.3s ease-in-out;
 	}
 	.wallet .disabled{
+		float:left;
 		display:inline-block;
 		height:44px;
 		width:15%;
-		float:left;
 
 		border:solid 2px #13a2d4;
 	  	background-color:#fff;
@@ -561,6 +561,10 @@ footer p{
 		-moz-transition: all 0.3s ease-in-out;
 		-o-transition: all 0.3s ease-in-out;
 		transition: all 0.3s ease-in-out;
+	}
+
+	.wallet .btn-primary{
+		width:15%;
 	}
 
 }
