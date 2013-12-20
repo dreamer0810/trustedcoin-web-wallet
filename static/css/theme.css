@@ -114,6 +114,7 @@ input{
   	box-shadow:none;
   	padding:5px 10px;
   	margin:20px;
+  	width:100%;
 }
 footer{
 	background:#fff;
