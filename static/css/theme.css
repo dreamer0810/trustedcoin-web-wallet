@@ -542,9 +542,10 @@ footer p{
 			-o-transition: all 0.3s ease-in-out;
 			transition: all 0.3s ease-in-out;
 	}
-	.disabled{
+	.btn.disabled{
 		display:inline-block;
 		height:44px;
+		width:80px;
 	}
 
 }
