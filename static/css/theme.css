@@ -522,14 +522,14 @@ footer p{
 	}
 
 	input{
-  		width:58%;
+  		width:60%;
   		height:44px;
   		margin: 40px 10px;
   		float:left;
 	}
 
 	.btn-success{
-		width:16%;
+		width:20%;
 		display:inline-block;
 		height:44px;
 		float:left;
@@ -548,7 +548,7 @@ footer p{
 		float:left;
 		display:inline-block;
 		height:44px;
-		width:15%;
+		width:13%;
 		margin: 40px 5px;
 
 		border:solid 2px #13a2d4;
