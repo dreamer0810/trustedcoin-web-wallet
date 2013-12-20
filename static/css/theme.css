@@ -522,17 +522,16 @@ footer p{
 	}
 
 	input{
-  		width:70%;
+  		width:500px;
   		height:44px;
-  		margin: 40px auto;
+  		margin: 40px 10px;
 	}
 
-	.btn,.btn-success{
-		width:70%;
-		margin:20px auto;
+	.btn-success{
+		width:auto;
+		float:left;
 		height:44px;
 
-		padding:10px 32px;
 	    font-family: 'Roboto Slab', serif;
 	    font-weight: 300;
 	    font-size:16px;
