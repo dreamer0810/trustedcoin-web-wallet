@@ -522,14 +522,15 @@ footer p{
 	}
 
 	input{
-  		width:500px;
+  		width:600px;
   		height:44px;
   		margin: 40px 10px;
+
 	}
 
 	.btn-success{
 		width:auto;
-		float:left;
+		display:inline-block;
 		height:44px;
 
 	    font-family: 'Roboto Slab', serif;
@@ -540,6 +541,10 @@ footer p{
 			-moz-transition: all 0.3s ease-in-out;
 			-o-transition: all 0.3s ease-in-out;
 			transition: all 0.3s ease-in-out;
+	}
+	.disabled{
+		display:inline-block;
+		height:44px;
 	}
 
 }
