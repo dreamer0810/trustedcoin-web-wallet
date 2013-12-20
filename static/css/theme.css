@@ -576,11 +576,11 @@ footer p{
 	}
 
 	.create input{
-		width:100%;
+		width:90%;
 	}
 
 	.create .form-horizontal{
-		padding:20px;
+		padding:40px;
 	}
 
 }
