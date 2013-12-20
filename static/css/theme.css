@@ -522,17 +522,17 @@ footer p{
 	}
 
 	input{
-  		width:600px;
+  		width:70%;
   		height:44px;
   		margin: 40px 10px;
   		float:left;
 	}
 
 	.btn-success{
-		width:auto;
+		width:15%;
 		display:inline-block;
 		height:44px;
-		float:left;
+		float:right;
 
 	    font-family: 'Roboto Slab', serif;
 	    font-weight: 300;
@@ -546,8 +546,21 @@ footer p{
 	.wallet .btn, .wallet .disabled{
 		display:inline-block;
 		height:44px;
-		width:80px;
+		width:10%;
 		float:left;
+
+		border:solid 2px #13a2d4;
+	  	background-color:#fff;
+	  	padding:10px 32px;
+	  	color:#13a2d4;
+	  	font-family: 'Roboto Slab', serif;
+	  	font-weight: 300;
+	  	font-size:16px;
+
+	  	-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
 	}
 
 }
