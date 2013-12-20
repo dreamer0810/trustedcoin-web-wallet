@@ -567,8 +567,12 @@ footer p{
 	}
 
 	.wallet .btn-primary{
-		width:15%;
 		float:left;
+		display:inline-block;
+		height:44px;
+		width:13%;
+		margin: 40px 5px;
+		padding:10px 32px;
 	}
 
 }
