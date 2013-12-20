@@ -577,7 +577,10 @@ footer p{
 
 	.create input{
 		width:100%;
-		margin:10px;
+	}
+
+	.create .form-horizontal{
+		padding:20px;
 	}
 
 }
