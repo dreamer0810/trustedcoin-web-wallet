@@ -522,14 +522,14 @@ footer p{
 	}
 
 	input{
-  		width:70%;
+  		width:55%;
   		height:44px;
   		margin: 40px 10px;
   		float:left;
 	}
 
 	.btn-success{
-		width:15%;
+		width:25%;
 		display:inline-block;
 		height:44px;
 		float:right;
@@ -543,10 +543,10 @@ footer p{
 			-o-transition: all 0.3s ease-in-out;
 			transition: all 0.3s ease-in-out;
 	}
-	.wallet .btn, .wallet .disabled{
+	.wallet .disabled{
 		display:inline-block;
 		height:44px;
-		width:10%;
+		width:20%;
 		float:left;
 
 		border:solid 2px #13a2d4;
