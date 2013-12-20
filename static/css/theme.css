@@ -527,7 +527,7 @@ footer p{
   		margin: 40px auto;
 	}
 
-	.btn>.btn-success{
+	.btn,.btn-success{
 		width:70%;
 		margin:20px auto;
 		height:44px;
