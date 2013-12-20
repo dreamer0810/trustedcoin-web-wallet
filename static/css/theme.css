@@ -528,6 +528,11 @@ footer p{
   		margin: 40px auto;
 	}
 
+	.btn-success{
+		width:70%;
+		margin:30px auto;
+	}
+
 }
 
 /* =============== media queries 1200px ===============*/
