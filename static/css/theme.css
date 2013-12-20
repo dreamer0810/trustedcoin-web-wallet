@@ -106,9 +106,9 @@ hr {
 .contact .field{
 	border: 1px solid #ddd !important;
 	border-radius: 4px;
-  b
+}
   
-  input
+  input{
 	border: 1px solid #ddd !important;
 	border-radius: 4px;
   	box-shadow:none;
