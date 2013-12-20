@@ -521,7 +521,7 @@ footer p{
 		padding:50px;
 	}
 
-	input{
+	.wallet input{
   		width:60%;
   		height:44px;
   		margin: 40px 10px;
