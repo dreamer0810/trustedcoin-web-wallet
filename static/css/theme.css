@@ -108,12 +108,13 @@ hr {
 	border-radius: 4px;
 }
   
-  input{
+input{
 	border: 1px solid #ddd !important;
 	border-radius: 4px;
   	box-shadow:none;
   	width:100%;
-  	padding:5px;
+  	padding:8px 10px;
+  	margin:20px;
 }
 footer{
 	background:#fff;
@@ -519,6 +520,10 @@ footer p{
 	}
 	.bottom{
 		padding:50px;
+	}
+
+	input{
+  		margin:20px 10%;
 	}
 
 }
