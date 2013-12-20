@@ -576,7 +576,7 @@ footer p{
 	}
 
 	.create input{
-		width:90%;
+		width:auto;
 	}
 
 	.create .form-horizontal{
