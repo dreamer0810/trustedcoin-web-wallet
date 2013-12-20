@@ -575,6 +575,11 @@ footer p{
 		padding:10px;
 	}
 
+	.wallet .col-sm-12 p{
+		margin:20px;
+		padding:20px;
+	}
+
 	.create input{
 		width:100%;
 		margin:10px auto;
