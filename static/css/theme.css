@@ -575,10 +575,12 @@ footer p{
 		padding:10px;
 	}
 
-	.wallet .col-sm-12 p{
+	.wallet .col-sm-12{
 		margin:20px;
 		padding:20px;
 	}
+
+	.wallet .col-sm-12 p{text-align:center;}
 
 	.create input{
 		width:100%;
