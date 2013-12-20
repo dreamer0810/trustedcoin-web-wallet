@@ -549,12 +549,12 @@ footer p{
 		float:left;
 		display:inline-block;
 		height:44px;
-		width:14%;
+		width:13%;
 		margin: 40px 5px;
 
 		border:solid 2px #13a2d4;
 	  	background-color:#fff;
-	  	padding:10px 32px;
+	  	padding:10px 20px;
 	  	color:#13a2d4;
 	  	font-family: 'Roboto Slab', serif;
 	  	font-weight: 300;
@@ -570,9 +570,9 @@ footer p{
 		float:left;
 		display:inline-block;
 		height:44px;
-		width:14%;
+		width:13%;
 		margin: 40px 5px;
-		padding:10px 32px;
+		padding:10px 20px;
 	}
 
 	.create input{
