@@ -533,6 +533,7 @@ footer p{
 		display:inline-block;
 		height:44px;
 		float:left;
+		margin: 40px 5px;
 
 	    font-family: 'Roboto Slab', serif;
 	    font-weight: 300;
@@ -548,6 +549,7 @@ footer p{
 		display:inline-block;
 		height:44px;
 		width:15%;
+		margin: 40px 5px;
 
 		border:solid 2px #13a2d4;
 	  	background-color:#fff;
