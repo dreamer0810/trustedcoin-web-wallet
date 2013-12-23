@@ -93,14 +93,12 @@ a{
 hr {
 	margin:40px 0; 
 	padding:0;
-	border-top: 1px solid #ddd; 
-	
+	border-top: 1px solid #ddd; 	
 }
-
 
  .form-horizontal input,
  .form-horizontal textarea{
-  border:none;
+ 
   box-shadow:none;
 }
 
